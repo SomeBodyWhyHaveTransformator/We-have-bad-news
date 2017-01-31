@@ -1,0 +1,225 @@
+﻿#header{
+	position: absolute;
+	margin-left: 20%;
+	background: url(back_for_the_header.png);
+	height: 495;
+	width: 976;
+	border-radius: 7px;
+	text-align: center;
+	color: white;
+}
+.time{
+width: 240px;
+height: 90px;
+background: orange;
+margin-left: 85%;
+border-radius: 200px;
+position: absolute;
+margin-top: 12px;
+}
+#time_h2{
+    margin-left: 30px;
+	margin-top: 15px;
+    color:#045FB4;
+}
+body{
+         background: #f0f0f0;
+         background-size: 3000%;
+		 background-attachment: fixed;
+}
+a{
+	color: gray;
+	text-decoration: none;
+}
+p{
+	font-family: Comic Sans MS;
+}
+/* Последние Новости из блога */
+.news{
+	position: absolute;
+	margin-left: 38%;
+	text-align: center;
+}
+.block_hren{
+	width: 1000;
+	height:	490;
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 34%;
+	text-align: center;
+}
+#block_hren_1{
+	position: absolute;
+	width: 333;
+	height:	360;
+	background: white;
+	position: absolute;
+	margin: 0 auto;
+	border-radius: 7px;
+	margin-top: 7%;
+	color: black;
+	text-align: center;
+}
+.block_hren_2{
+	position: absolute;
+	width: 328px;
+	height:	360px;
+	background: white;
+	position: absolute;
+	margin-left: 35.5%;
+	margin-top: 7%;
+	border-radius: 7px;
+	text-align: center;
+}
+.block_hren_3{
+	position: absolute;
+	width: 329px;
+	height:	360px;
+	background: white;
+	position: absolute;
+	margin-left: 71%;
+	border-radius: 7px;
+	margin-top: 7%;
+	text-align: center;
+}
+#view_all{
+	height: 36px;
+	width: 133px;
+	background: url(View.png);
+	margin: auto;
+	margin-top: 450px;	
+}
+/* Крутые платформи */
+.KP{
+	background: White;
+	width: 100%;
+	height: 300px;
+	margin-left: -8px;
+	position: absolute;
+	margin-top: 1100px;
+	text-align: center;
+
+}
+.Steam{
+	width: 300px;
+	height: 210px;
+/* 	background-color: black; */
+	margin-left: 20%;
+	position: absolute;
+	border-right: 1px solid gray;
+	font-family: Comic Sans MS;
+	text-align: left;
+}
+.GOG{
+    width: 300px;
+	height: 210px;
+	/* background-color: black; */
+	margin-left: 40%;
+	position: absolute;
+	border-right: 1px solid gray;
+	font-family: Comic Sans MS;
+	text-align: left;
+}
+.Origin{
+    width: 300px;
+	height: 210px;
+/* 	background-color: black; */
+	margin-left: 60%;
+	position: absolute;
+    font-family: Comic Sans MS;
+	text-align: left;
+}
+/* MiniMenu */
+#Mmenu{
+	width: 550px;
+	height: 300px;
+	background: white;
+	position: absolute;
+	margin-left: 20%;
+	margin-top: 88%;
+	border-radius: 8px;
+}
+.PE{
+	width:550px;
+	height: 50px;
+	border-radius: 8px 8px 0px 0px;
+	background: #e4e4e4;
+	font-family: Comic Sans MS;
+}
+#PE1{
+	width: 120px;
+	height: 50px;
+	background: #e4e4e4;
+	border-radius: 8px 0px 0px 0px;
+	text-align: center;
+	cursor: pointer;
+}
+#PE2{
+	width: 120px;
+	height: 50px;
+	background: #e4e4e4;
+	border-radius: 0px 0px 0px 0px;
+	margin-left:120px;
+	margin-top: -50px;	
+	text-align: center;
+	cursor: pointer;
+}
+#PE3{
+	width: 120px;
+	height: 50px;
+	background: #e4e4e4;
+	border-radius: 0px 0px 0px 0px;
+	margin-left:240px;
+	margin-top: -50px;
+	text-align: center;
+	cursor: pointer;
+}
+#PE4{
+	width: 120px;
+	height: 50px;
+	background: #e4e4e4;
+	border-radius: 0px 8px 0px 0px;
+	margin-left:360px;
+	margin-top: -50px;
+	text-align: center;
+	cursor: pointer;
+}
+.ab_me{
+	height: 300px;
+	width: 260px;
+	background: white;
+	border-radius: 8px;
+	position: absolute;
+	margin-top: 88%;
+	margin-left: 58%;
+	text-align: left;
+}
+.ab_metext{
+	font-family: Tahoma;
+	margin-left: 20px;
+}
+p.ab_metext{
+	font-family: Tahoma;
+	margin-left: 20px;
+}
+/* Подвал */
+footer{
+	width: 100%;
+	height: 20%;
+	margin-left: -8px;
+	margin-top: 110%;
+	background: url(bg_for_footer.png);
+	position: absolute;
+	box-shadow: 1px 1px 1px 1px rgb( 0, 0, 0 );
+}
+.fo_text{
+	margin-left: 20%;
+	font-family:  Comic Sans MS;
+}
+img.fo_text{
+	margin-top: -3.5%;
+}
+h2.fo_text{
+	margin-left: 23.5%;
+	color: gray;
+}
