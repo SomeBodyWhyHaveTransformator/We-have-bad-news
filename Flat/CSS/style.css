@@ -1,14 +1,13 @@
 ﻿#header{
 	position: absolute;
 	margin-left: 20%;
-	background: url(back_for_the_header.png);
 	height: 495;
 	width: 976;
 	border-radius: 7px;
 	text-align: center;
 	color: white;
 }
-.time{
+#time{
 width: 240px;
 height: 90px;
 background: orange;
@@ -85,7 +84,7 @@ p{
 #view_all{
 	height: 36px;
 	width: 133px;
-	background: url(View.png);
+	background: url(image/View.png);
 	margin: auto;
 	margin-top: 450px;	
 }
@@ -208,7 +207,7 @@ footer{
 	height: 20%;
 	margin-left: -8px;
 	margin-top: 110%;
-	background: url(bg_for_footer.png);
+	background: url(image/bg_for_footer.png);
 	position: absolute;
 	box-shadow: 1px 1px 1px 1px rgb( 0, 0, 0 );
 }
