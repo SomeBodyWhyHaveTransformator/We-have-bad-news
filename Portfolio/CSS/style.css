@@ -1,0 +1,122 @@
+body{
+	text-align: center;
+	background: #f4f4f4;
+}
+#header{
+	width: 101%;
+	height: 10%;
+	background: #39434b;
+	margin-left: -8px;
+	color: gray;
+}
+.head{
+	width:600px;
+	height: 100%;
+	margin-left: 60%;
+}
+#on_the_head{
+	width: 150px;
+	height: 100%;
+	cursor: pointer;
+	font-size: 28px;
+	float: left;
+	border-radius: 300px;
+}
+#on_the_head1{
+	width: 150px;
+	height: 100%;
+	cursor: pointer;
+	font-size: 28px;
+	float: left;
+	border-radius: 60px;
+}
+#on_the_head2{
+	width: 150px;
+	height: 100%;
+	cursor: pointer;
+	font-size: 28px;
+	float: left;
+	border-radius: 60px;
+}
+#on_the_head3{
+	width: 150px;
+	height: 100%;
+	cursor: pointer;
+	font-size: 28px;
+	float: left;
+	border-radius: 60px;
+}
+#LOGO{
+    font-family: Arial;
+	margin-left: 20%;
+	float: left;
+}
+.WeAre{
+	width: 1200px;
+	height: 400px;
+	margin: 0 auto;
+	min-width: 300px;
+}
+.Portfolio{
+	background: url(image/Port.png);
+	width: 101%;
+	height: 350px;
+	margin-left: -9px; 
+}
+.article{
+	width: 1664px;
+	height: 35%;
+    margin-left:-9px;
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+}
+.design{
+	height: 100%;
+	width: 80%;
+	margin: 0 auto;
+}
+.poddesign{
+	height: 100%;
+	width: 24%;
+	text-align: center;
+	position: relative;
+	color: gray;
+	max-height: 150%;
+}
+.poddesign_h2{
+	color: #2190c1;
+}
+.Team{
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+	padding: 80px;
+}
+.Guys{
+	width: 43%;
+	height: 45%;
+	float: left;
+	background: white;
+	border-top: 4px solid gray;
+	border-left: 6px solid gray;
+}
+.img_Guys{
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+footer{
+	width: 101%;
+	height: 220px;
+	background: #2e3e4f;
+	margin-top: 50px;
+	float: left;
+	margin-left: -10px;
+}
+.podfooter{
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+	font-family: Comic Sans MS;
+	text-align: left;
+}
